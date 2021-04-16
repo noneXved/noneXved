@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Damian Bajno
-
+![Alt Text](https://github.com/noneXved/noneXved/blob/main/presentation.gif)
 
 ## &#x1f4c8; GitHub Stats
 
