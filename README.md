@@ -17,6 +17,7 @@
 📖 Books that I recommend
 
 Clean Code by Robert C. Martin
+Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve McConnell 
 
 
 I'm currently reading "The Pragmatic Programmer: From Journeyman to Master" by Andrew Hunt, David Thomas
