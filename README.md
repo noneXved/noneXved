@@ -25,13 +25,22 @@ I'm currently reading "The Pragmatic Programmer: From Journeyman to Master" by A
 ---
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/noneXved/noneXved">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noneXved&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/noneXved/noneXved">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=noneXved&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="noneXved GitHub Stats" />
-</a>
-
+<center>
+  <table>
+    <tr>
+      <td>
+      <a href="https://github.com/noneXved/noneXved">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noneXved&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+      </a>
+      </td>
+      <td>
+      <a href="https://github.com/noneXved/noneXved">
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=noneXved&show_icons=true&line_height=27&count_private=true&theme=synthwave"           alt="noneXved GitHub Stats" />
+      </a>
+      </td>
+    </tr>   
+  </table>
+</center>
 
 <!--
 **noneXved/noneXved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
