@@ -10,7 +10,7 @@
 
 --- 
 
-<!-- 👷 I’m currently working on <a href=https://github.com/noneXved/bookstore>Bookstore in Spring Boot</a> -->
+👷 I’m currently working on <a href=https://github.com/noneXved/spring-app>TODO app in Spring Boot</a>
 
 ---
 
