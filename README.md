@@ -7,6 +7,7 @@
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="idea" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="45" height="45"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="45" height="45"/> 
 
 --- 
 
