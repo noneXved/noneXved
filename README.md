@@ -10,20 +10,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="45" height="45"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> 
 
---- 
-
-👷 I’m currently working on <a href=https://github.com/noneXved/spring-app>TODO app in Spring Boot</a>
-
----
-
-📖 Books that I recommend
-
-Clean Code by Robert C. Martin
-Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve McConnell 
-
-
-I'm currently reading "The Pragmatic Programmer: From Journeyman to Master" by Andrew Hunt, David Thomas
-
 ---
 ## &#x1f4c8; GitHub Stats
 
